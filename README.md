@@ -2,6 +2,8 @@
 
 Welcome to the Krusty Krapp. My name is Squidward. May I take your order?
 
+![logo](logo.png)
+
 ## What's inside?
 
 This turborepo uses [npm](https://www.npmjs.com/) as a package manager. It includes the following packages/apps:
